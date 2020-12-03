@@ -5,29 +5,29 @@ img {margin: 0}
 .sss {
 
   background-image: url(https://iili.io/FPZfNp.jpg);
-  background-size: 1350px;
+  background-size: 2025px;
   background-repeat: no-repeat;
 
 }
 
 header {background-color: black} 
 
-#gay {margin-left:150px;}
+#gay {margin-left:225px;}
 
 #ime {
-margin-left: 790px;
- margin-top: 885px;
+margin-left: 1185px;
+ margin-top: 1327px;
 }
 
 
 h2 {
-  margin-top: 600px;
+  margin-top: 900px;
   font-size: 130px;
 }
 h6 { margin: 0;
   font-size: 48px;
-  margin-top: 110px;
-  margin-left: 592px;
+  margin-top: 165px;
+  margin-left: 888px;
   font-family: fantasy;
 }
 
@@ -38,8 +38,8 @@ h6 { margin: 0;
 }
 
 .prob {
-  margin-top: 32px;
+  margin-top: 48px;
   height: 70px; width: 100px;
-  margin-left: 750px;
+  margin-left: 1125px;
   background-color: rgb(255,255,255,0.0);
 }
