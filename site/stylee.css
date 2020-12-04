@@ -18,7 +18,7 @@ header {background-color: black}
 
 #ime {
 margin-left: 1135px;
- margin-top: 1273px; 
+ margin-top: 1233px; 
   height:30px; width:300px; font-size:17px;
 }
 
@@ -28,14 +28,14 @@ h2 {
   font-size: 130px;
 }
 h6 { margin: 0;
-  font-size: 70px;
-  margin-top: 130px;
-  margin-left: 855px;
+  font-size: 69px;
+  margin-top: 120px;
+  margin-left: 800px;
   font-family: fantasy;
 }
 
 .color {
-  background: linear-gradient(brown,blue); 
+  background: linear-gradient(red,blue); 
   -webkit-background-clip:text;
   -webkit-text-fill-color:transparent;
 }
