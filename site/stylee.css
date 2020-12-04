@@ -12,10 +12,12 @@ img {margin: 0}
 
 header {background-color: black} 
 
-#gay {margin-left:450px; height:200px;}  
+#gay {margin-left:400px;}
+  
+#gay2 {height:200px;margin-left:15px}  
 
 #ime {
-margin-left: 1155px;
+margin-left: 1135px;
  margin-top: 1273px; 
   height:30px; width:300px; font-size:17px;
 }
