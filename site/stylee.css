@@ -33,7 +33,7 @@ h6 { margin: 0;
 }
 
 .color {
-  background: linear-gradient(red,blue);
+  background: linear-gradient(green,black); 
   -webkit-background-clip:text;
   -webkit-text-fill-color:transparent;
 }
