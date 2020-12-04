@@ -5,18 +5,19 @@ img {margin: 0}
 .sss {
 
   background-image: url(https://iili.io/FPZfNp.jpg);
-  background-size: 2025px;
+  background-size: 1950px;
   background-repeat: no-repeat;
 
 }
 
 header {background-color: black} 
 
-#gay {margin-left:340px;} 
+#gay {margin-left:450px;} 
 
 #ime {
-margin-left: 1185px;
- margin-top: 1327px;
+margin-left: 1155px;
+ margin-top: 1300px;
+  height:30px; width:200px;
 }
 
 
@@ -26,8 +27,8 @@ h2 {
 }
 h6 { margin: 0;
   font-size: 70px;
-  margin-top: 173px;
-  margin-left: 888px;
+  margin-top: 165px;
+  margin-left: 880px;
   font-family: fantasy;
 }
 
